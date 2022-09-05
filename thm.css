@@ -3,7 +3,11 @@ h2
   color: #ff0000;
 }
 
-#top
+.txt
 {
-  color: green;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
 }
