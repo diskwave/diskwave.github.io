@@ -11,3 +11,19 @@ h2
   color: #212529;
   text-align: left;
 }
+
+.room-questions-split {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 100%;
+}
+
+.hacker-green {
+  color: var(--hacker-green);
+}
+
+.vertical-align-custom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
