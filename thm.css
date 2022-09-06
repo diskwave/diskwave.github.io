@@ -10,13 +10,25 @@ h2
 }
 
 
-.txt
+p
 {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
   text-align: left;
+}
+
+ul
+{
+  text-decoration: underline;
+  text-decoration-color: firebrick;
+}
+
+ol
+{
+  text-decoration:underline;
+  text-decoration-color:aqua;
 }
 
 .room-questions-split {
